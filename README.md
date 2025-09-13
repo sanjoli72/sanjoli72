@@ -1,4 +1,4 @@
-# 👩‍💻 Sanjoli Jain  
+# 👩‍💻 Dr.Sanjoli Jain  
 
 ### Mathematical Researcher ➝ AI/ML Scientist | Applied Mathematics | LLMs & LangChain | RAG Technology  
 
@@ -15,7 +15,7 @@ Broadly interested in **Research**, **Optimizing Systems**, and **Machine Learni
 I am a **Mathematical Researcher turned AI/ML scientist**, with a strong foundation in **Applied Mathematics**.  
 - 🎓 **Ph.D. in Applied Mathematics** (Ecological Modeling, Endangered Species Preservation).  
 - 📘 Dissertation: *"Application of Ecosystem Models to Preserve Endangered Species"*.  
-- 🏆 3 Research Publications in **SCI Journals**.  
+- 🏆 4 Research Publications in **SCI Journals**.  
 - 💼 Worked as **Project Assistant** under a **DST-SERB, Govt. of India** funded project.  
 
 ---
@@ -37,10 +37,11 @@ You can view all my publications on [ResearchGate](https://www.researchgate.net/
 **Core Mathematical Expertise**  
 - Linear Algebra • Probability & Statistics • Optimization • Non-linear Models • Numerical Methods  
 
-**AI/ML & Data Science**  
+**AI/ML & Data Science** 
+- LLMs, LangChain/LangGraph, RAG, Agentic workflows 
 - Supervised & Unsupervised Learning  
 - Data Visualization & Feature Engineering  
-- LLMs, LangChain, RAG  
+ 
 
 **Programming & Tools**  
 - Python (NumPy, Pandas, Matplotlib, TensorFlow)  
